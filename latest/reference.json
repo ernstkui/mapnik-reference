@@ -398,7 +398,7 @@
             "stroke-width": {
                 "css": "line-width",
                 "default-value": 1,
-                "type": "float",
+                "type": "expression",
                 "doc": "The width of a line in pixels"
             },
             "stroke-opacity": {
